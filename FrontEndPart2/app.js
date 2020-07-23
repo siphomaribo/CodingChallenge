@@ -31,8 +31,7 @@ console.log("The Destination Names : " + GetDestinationName(data));
 console.log("The Destinations holidayRanking > 4 : " + GetDestinationHolidayGreaterThanFour(data));
 
 console.log("The Destinations holidayRanking sum is : " + GetDestinationHolidayGreaterThanFourAndTheirSum(GetDestinationHolidayGreaterThanFour(data)));
-
-debugger 
+ 
 
 function GetDestinationName(data) {
 
@@ -65,4 +64,5 @@ function GetDestinationHolidayGreaterThanFourAndTheirSum(data) {
 
     return sum;
 }
+
 //# sourceMappingURL=app.js.map
