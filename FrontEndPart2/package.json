@@ -1,0 +1,12 @@
+{
+  "name": "front-end-part2",
+  "version": "0.0.0",
+  "description": "FrontEndPart2",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.14"
+  }
+}
